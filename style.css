@@ -82,3 +82,10 @@ h1 {
   margin: 0;
   font-size: 1em;
 }
+
+body {
+  width: 100vw;
+}
+#byafpar .theme img {
+   width: 200px;
+}
