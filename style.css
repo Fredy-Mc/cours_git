@@ -86,6 +86,18 @@ h1 {
 body {
   width: 100vw;
 }
+#byafpar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#byafpar .theme {
+  width: 800px;
+  background-color: rgb(161, 224, 203);
+  border-radius: 10px;
+  margin: 30px;
+  padding: 30px;
+}
 #byafpar .theme img {
    width: 200px;
 }
